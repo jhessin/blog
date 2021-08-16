@@ -53,10 +53,10 @@ paginate = 10
   showReadTime = false
 
   # License in the footer
-  showLicenseInFooter = false
+  showLicenseInFooter = true
 
   # License at the end of each post
-  showLicense = true
+  showLicense = false
   showToc = true
 
   # Copyright
@@ -68,7 +68,7 @@ paginate = 10
   og = "/img/og.png" # This will use the image called og.png in static/img folder
 
   # Posts shown in homepage
-  mainSections = ["posts"]
+  mainSections = ["about", "posts"]
 
   # Bangumi image chart id
   # bgmImageChart = "000000"
@@ -108,7 +108,7 @@ paginate = 10
     codeFences = false  # Disable Hugo's code highlighter
 
   [markup.tableOfContents]
-    startLevel = 2
+    startLevel = 1
     endLevel = 3
 
 [taxonomies]
@@ -127,10 +127,6 @@ paginate = 10
     name = "About"
     url = "/about/"
     weight = 3
-  [[menu.nav]]
-    name = "Search"
-    url = "/search/"
-    weight = 4
   [[menu.nav]]
     name = "RSS"
     url = "/index.xml"

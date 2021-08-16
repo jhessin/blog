@@ -45,3 +45,54 @@ getting married, and after a second tour in Iraq I left the military and we
 moved to her hometown in Mullen, NE.
 
 So when people ask where I'm from I just tend to give them a blank stare...
+
+# What I'm about
+
+My priorities are my family and Jesus. Not necessarily in that order.
+Programming is a hobby, but not the main focus of my life. My oldest son has
+severe autism. Some would call it "classical" autism. This is what most people
+think of when they think of autism. He can't have a conversation. He can't
+adjust to change. Since learning about his condition I have discovered that I
+am also on the spectrum unofficially.
+
+Up until a few months ago I was really into gaming - primarily MMOs, but
+anything on a console was pretty addicting. But around may I realized it was
+taking to much time out of my life. Time away from family and time away from
+other productive things. I sold my PlayStation and have sworn off gaming. Maybe
+one day I'll be able to pick it up again, but I don't want to be ensnared by
+it.
+
+Currently my hobbies are books, programming, and tv/movies.
+
+# Favorite Authors/Books
+
+- Brandon Sanderson
+  - Everything but especially:
+    - Stormlight Archives
+    - Reckoner Series
+- Drew Hayes
+  - Everything but especially:
+    - Super Powereds
+    - Fred the Vampire
+    - NPC's
+- Kevin Hardman
+  - Everything but especially:
+    - Kid Sensation Novels
+- Dakota Krout
+  - Divine Dungeon Series
+- Steven Gould
+  - Jumper Series
+
+## Honorable Mentions
+
+- D. J. MacHale
+  - Pendragon Series
+- Terry Goodkind
+  - Sword of Truth Series
+- Dean Koontz
+  - He is a childhood favorite of mine. TickTok was one of my favorites along
+    with the Odd Thomas Series.
+- Orson Scott Card
+  - Another childhood favorite - Nowadays he's a little too analytical for me
+    though. I think some of the best stories of his are the Pathfinder series
+    and the Mithermages series.
