@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>self on Hugo Theme Fuji</title>
+    <link>https://example.com/tags/self/</link>
+    <description>Recent content in self on Hugo Theme Fuji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Aug 2021 19:59:24 -0600</lastBuildDate><atom:link href="https://example.com/tags/self/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://example.com/posts/about_me/</link>
+      <pubDate>Sun, 15 Aug 2021 19:59:24 -0600</pubDate>
+      
+      <guid>https://example.com/posts/about_me/</guid>
+      <description>Where I come from My name is Jim Hessin. I am a husband, father of three, stay at home dad, sometimes dishwasher at the rest home, and avid programmer. I have a degree in game software development, not that that means anything. I like figuring things out on the computer in my spare time.
+I was born in St. Louis, MO. Moved in the third grade to South Texas. Moved around a bit but settled into the McAllen area for High School. Went to Pan-American University for a semester in Electrical Engineering then decided to join the military to help pay for school.</description>
+    </item>
+    
+  </channel>
+</rss>

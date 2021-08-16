@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on Hugo Theme Fuji</title>
+    <link>https://example.com/tags/blogging/</link>
+    <description>Recent content in blogging on Hugo Theme Fuji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Aug 2021 19:54:17 -0600</lastBuildDate><atom:link href="https://example.com/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging</title>
+      <link>https://example.com/posts/blogging/</link>
+      <pubDate>Sun, 15 Aug 2021 19:54:17 -0600</pubDate>
+      
+      <guid>https://example.com/posts/blogging/</guid>
+      <description>What is the point of a blog? So I&amp;rsquo;m going to start blogging now. I think the main focus of this blog is going to be me rambling about my life. Where I come from, the things that are important to me. I&amp;rsquo;m going to try and be as non-confrontational as I can, but if you get offended you can always go somewhere else. I mean this is the internet&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

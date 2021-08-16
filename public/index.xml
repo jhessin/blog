@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Theme Fuji</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Hugo Theme Fuji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Aug 2021 19:59:24 -0600</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://example.com/posts/about_me/</link>
+      <pubDate>Sun, 15 Aug 2021 19:59:24 -0600</pubDate>
+      
+      <guid>https://example.com/posts/about_me/</guid>
+      <description>Where I come from My name is Jim Hessin. I am a husband, father of three, stay at home dad, sometimes dishwasher at the rest home, and avid programmer. I have a degree in game software development, not that that means anything. I like figuring things out on the computer in my spare time.
+I was born in St. Louis, MO. Moved in the third grade to South Texas. Moved around a bit but settled into the McAllen area for High School. Went to Pan-American University for a semester in Electrical Engineering then decided to join the military to help pay for school.</description>
+    </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://example.com/posts/blogging/</link>
+      <pubDate>Sun, 15 Aug 2021 19:54:17 -0600</pubDate>
+      
+      <guid>https://example.com/posts/blogging/</guid>
+      <description>What is the point of a blog? So I&amp;rsquo;m going to start blogging now. I think the main focus of this blog is going to be me rambling about my life. Where I come from, the things that are important to me. I&amp;rsquo;m going to try and be as non-confrontational as I can, but if you get offended you can always go somewhere else. I mean this is the internet&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
