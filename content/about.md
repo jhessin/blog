@@ -96,3 +96,11 @@ Currently my hobbies are books, programming, and tv/movies.
   - Another childhood favorite - Nowadays he's a little too analytical for me
     though. I think some of the best stories of his are the Pathfinder series
     and the Mithermages series.
+
+## Conventions
+
+Just to clarify here are some conventions I will use while blogging. If I talk
+about reading a book I may mean sitting and reading a book, or listening to an
+audiobook. I find it less confusing if I just use one term, especially for the
+books that I half read and half hear. That's it for now - if there is more
+clarification needed later I will update this section.
