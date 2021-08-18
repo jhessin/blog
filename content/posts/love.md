@@ -35,7 +35,7 @@ another person. The question we should have asked was "How can **I** love
 This got me thinking about a terrible misconception that has even stymied other
 Christians: Soul Mates? Short answer there is no such thing. The idea that each
 person has a single other person that they are _meant_ to be with is utterly
-absurd. Not only is it a smack in the face of free will, but it sews seeds of
+absurd. Not only is it a smack in the face of free will, but it sows seeds of
 doubt in every relationship: "What if I'm not meant to be with this person?",
 "What if this other person is actually my soul mate?", etc.
 
@@ -45,7 +45,7 @@ should be the end of the discussion. Nothing can keep you from acting on that
 love, from prioritizing their needs above others, even your own.
 
 I remember my wife once asked me (back before we were married) what I would do
-if she refused to love me. I remember I told her I would love her as much as
+if we broke up. I remember I told her I would love her as much as
 she would let me - even from a distance if necessary. Because love is wanting
 the best for someone and acting in accordance with that wish. So if someone you
 love decides they don't love you and is happy in another relationship - don't
