@@ -138,5 +138,5 @@ paginate = 10
     weight = 1
   [[menu.link]]
     name = "Twitter"
-    url = "https://twitter.com/jhessin"
+    url = "https://twitter.com/JimHessin"
     weight = 2
